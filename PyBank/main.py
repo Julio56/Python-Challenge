@@ -3,8 +3,8 @@ import os
 import csv
  
 profits = 0
-Greatest_Increase = 0 # 1170593 is the highest value
-Biggest_Decrease = 0  #  -1196225 is the lowest value
+Greatest_Increase = 0 
+Biggest_Decrease = 0  
 Total_Months = []
 Total_Profits = []
 change = []
